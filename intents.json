@@ -1,0 +1,13 @@
+{
+    "storage": {
+        "driver": "",
+        "scriptStorage": ""
+    },
+    
+    "script": {
+        "mainScript": "",
+        "include": []
+    },
+    
+    "command": ""
+}
